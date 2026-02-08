@@ -1,0 +1,13 @@
+{
+  "name": "mobile",
+  "version": "0.0.0",
+  "dependencies": {
+    "expo": "latest",
+    "react-native": "latest",
+    "nativewind": "latest",
+    "@repo/ui": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}

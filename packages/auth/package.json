@@ -1,0 +1,14 @@
+{
+  "name": "@repo/auth",
+  "version": "0.0.0",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "dependencies": {
+    "better-auth": "latest",
+    "@repo/database": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
